@@ -15,8 +15,19 @@ Response Generation: The chatbot generates responses containing stock analysis r
 Interactive Conversations: The conversation history is maintained to ensure coherent and context-aware interactions between the user and the chatbot.
 
 getStockPrice: Get the latest stock price for a given company ticker symbol.
+
 calculateSMA: Calculate the simple moving average for a stock ticker over a specified window.
+
 calculateEMA: Calculate the exponential moving average for a stock ticker over a specified window.
+
 calculateRSI: Calculate the Relative Strength Index (RSI) for a stock ticker.
+
 calculateMACD: Calculate the Moving Average Convergence Divergence (MACD) for a stock ticker.
+
 plotStockPrice: Plot the stock price for the last year for a given company ticker.
+
+predictData
+
+getTop3Leaders
+
+getTop3Gainers
